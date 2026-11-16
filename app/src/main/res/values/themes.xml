@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Madlab11user_preferences_app" parent="Theme.Material3.DayNight.NoActionBar">
+            <!-- Primary colours -->
+            <item name="colorPrimary">@color/light_wood</item>
+            <item name="colorOnPrimary">@color/white</item>
+
+            <!-- Secondary colours -->
+            <item name="colorSecondary">@color/light_sand</item>
+            <item name="colorOnSecondary">@color/white</item>
+
+            <!-- Background colours -->
+            <item name="colorOnBackground">@color/light_back</item>
+            <item name="android:windowBackground">@color/light_back</item>
+
+            <!-- Surface colours -->
+            <item name="colorSurface">@color/white</item>
+            <item name="colorOnSurface">@color/light_coffee</item>
+
+            <!-- Text colours -->
+            <item name="android:textColorPrimary">@color/light_coffee</item>
+
+    </style>
+
+    <style name="Theme.Madlab11user_preferences_app" parent="Base.Theme.Madlab11user_preferences_app" />
+</resources>

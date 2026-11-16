@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">User Preference App</string>
+    <string name="enter_your_full_name_ex_jane_doe">Enter your full name (Ex: Jane Doe)</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="profile_summary">Profile Summary</string>
+    <string name="username">Username: %1$s</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="user_preferences">User Preferences</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
