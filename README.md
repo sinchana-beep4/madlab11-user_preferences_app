@@ -11,19 +11,25 @@ SharedPreferences to save both the
 username (String) and the switch state (Boolean) so that they remain intact when the application
 restarts.
 
+<img src="images/light_mode.jpg" width="250">
+<img src="images/dark_mode.jpg" width="250">
+<img src="images/preferences_saved.jpg" width="250">
 
 
-
-3. Options
+2. Options
 Menu: Add an Options Menu to MainActivity
 with two menu items: "Profile
 Summary" and "Clear
 Data".
 
+<img src="images/menu.jpg" width="250">
 
-4. Intent
+3. Intent
 Navigation (ProfileActivity): Clicking "Profile Summary"
 in the menu must use an Explicit
 Intent to open ProfileActivity, which displays the
 saved username and whether the switch is currently ON or OFF. Clicking "Clear Data"
 must wipe the stored preferences and reset the UI fields to their defaults.
+
+<img src="images/profile_summary.jpg" width="250">
+<img src="images/data_cleared.jpg" width="250">
